@@ -8,7 +8,7 @@ Architect turned Data Analyst. Turning messy data into clear insights with Excel
 - Google Sheet
 
 ## My Projects
-[Brewery Sales Performance Analysis across retail outlets in Anambra State] 
+[Brewery Sales Performance Analysis across retail outlets in Anambra State](https://github.com/kennethUju/Brewery-Sales-Performance-Analysis)
 
 ## Currently Learning 
 Advanced SQL
